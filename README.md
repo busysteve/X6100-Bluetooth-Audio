@@ -27,12 +27,24 @@ wcG4YBl/fUXzKf1b//AJ+Jz+KT72tr//HQ/96MxzQ6P/wfXPJI9yuQCwPsEyvYtYoUvJwbIk0/zc
 
 Run the nano editor -
 
+
 **[root@XIEGU-x6100:/root]# nano**
+
 
 ![](https://github.com/busysteve/X6100-Bluetooth-Audio/blob/main/nano.png)
 
 
 paste the base64 gibbrish above into the nano editor
+
+
+![](https://github.com/busysteve/X6100-Bluetooth-Audio/blob/main/nano-base64.png)
+
+
+Then save the base64 text as a file called: buletooth.b64:
+
+
+![](https://github.com/busysteve/X6100-Bluetooth-Audio/blob/main/nano-save-as.png)
+
 
 **[root@XIEGU-x6100:/root]# base64 -d bluetooth.b64 > bluetooth.tgz**
 
