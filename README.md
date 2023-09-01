@@ -6,6 +6,7 @@ Want to use a Bluetooth earpiece on your X6100?
 After logging into your device with the method you used, paste the text below into a
 nano session as follows:
 
+'''
 H4sIAAAAAAACA+2Xz0/bMBTHe53/irdSoXVTSJwfzQQCLrvtsAPaadrBTR0S4SaZ7TAY5X/fS5s2
 aRqGJo1IaP5cgv2e3zO2v8/uXJRc57lOrIRFN/boJXCQMAjWX6T7Xf9NfT/0XSekHh051PVDZwTB
 aABKpZkEGElchD/5PWd/pcz39z/NcDmEOFHJgPvv+fX+03A2c6r99wP8gGP2/8U5emureZrZKiEk
@@ -19,6 +20,7 @@ aJc09VnBCq4l738Y1ibrdvNtJYAmRDtTNctt/yZjndLbdfdfKa2kzc0Sp4QLxZ++HVqj2nNzL44p
 wcG4YBl/fUXzKf1b//AJ+Jz+KT72tr//HQ/96MxzQ6P/wfXPJI9yuQCwPsEyvYtYoUvJwbIk0/zc
 96njYGNexjGXlkp/8fOZjwJoqWEFBSsEu0c3gWOy6P6cuh8PBWNeFwaDwWAwGAwGg8FgMBgMBoPB
 8ML8BiMRnoAAKAAA
+'''
 
 [root@XIEGU-x6100:/root]#
 
