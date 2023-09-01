@@ -29,6 +29,9 @@ Run the nano editor -
 
 **[root@XIEGU-x6100:/root]# nano**
 
+![](https://github.com/busysteve/X6100-Bluetooth-Audio/blob/main/nano.png)
+
+
 paste the base64 gibbrish above into the nano editor
 
 **[root@XIEGU-x6100:/root]# base64 -d bluetooth.b64 > bluetooth.tgz**
