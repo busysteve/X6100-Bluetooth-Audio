@@ -46,8 +46,12 @@ Then save the base64 text as a file called: buletooth.b64:
 ![](https://github.com/busysteve/X6100-Bluetooth-Audio/blob/main/nano-save-as.png)
 
 
+
+Convert the base64 text into it original tar-gzip file (tgz) containing the script files:
 **[root@XIEGU-x6100:/root]# base64 -d bluetooth.b64 > bluetooth.tgz**
 
+
+Untar the files:
 **[root@XIEGU-x6100:/root]# tar -xzvf bluetooth.tgz**
 
 Will expand to the following:
@@ -59,8 +63,11 @@ bluetooth-hack/bluetooth.sh
 bluetooth-hack/bluetooth-stream.sh
 
 
+Go into the new directory:
 **[root@XIEGU-x6100:/root]# cd bluetooth-hack**
 
+
+Run the install script with "sh":
 **[root@XIEGU-x6100:/root/bluetooth-hack]# sh install.sh**
 
 
